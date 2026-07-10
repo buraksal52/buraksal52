@@ -1,18 +1,18 @@
 <p align="center">
   <picture>
-
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="./assets/header-dark.svg">
-
+      srcset="./assets/header-dark.svg"
+    />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="./assets/header-light.svg">
-
+      srcset="./assets/header-light.svg"
+    />
     <img
-      src="./assets/header-dark.svg"
-      alt="Header">
-
+      src="./assets/header-light.svg"
+      width="100%"
+      alt="Burak SAL animated terminal header"
+    />
   </picture>
 </p>
 
