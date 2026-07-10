@@ -13,11 +13,11 @@
 │                                                                              │
 │  $ tree ~/projects                                                           │
 │                                                                              │
-│  - ClinicAI                                                                 │
-│  - Agent-Tale                                                               │
-│  - LucidUI                                                                  │
-│  - MIV-Blockspace                                                           │
-│  - Physim                                                                   │
+│  - ClinicAI                                                                  │
+│  - Agent-Tale                                                                │
+│  - LucidUI                                                                   │
+│  - MIV-Blockspace                                                            │
+│  - Physim                                                                    │
 │                                                                              │
 │  $ cat profile.md                                                            │
 │                                                                              │
