@@ -1,0 +1,181 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="1000"
+  height="250"
+  viewBox="0 0 1000 250"
+  role="img"
+  aria-labelledby="title desc"
+>
+  <title id="title">Burak SAL animated terminal header</title>
+  <desc id="desc">
+    An animated terminal-style header displaying the name Burak SAL.
+  </desc>
+
+  <defs>
+    <linearGradient id="terminalGradient" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1117" />
+      <stop offset="100%" stop-color="#161b22" />
+    </linearGradient>
+
+    <linearGradient id="textGradient" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#58a6ff">
+        <animate
+          attributeName="stop-color"
+          values="#58a6ff;#3fb950;#bc8cff;#58a6ff"
+          dur="8s"
+          repeatCount="indefinite"
+        />
+      </stop>
+
+      <stop offset="50%" stop-color="#3fb950">
+        <animate
+          attributeName="stop-color"
+          values="#3fb950;#bc8cff;#58a6ff;#3fb950"
+          dur="8s"
+          repeatCount="indefinite"
+        />
+      </stop>
+
+      <stop offset="100%" stop-color="#bc8cff">
+        <animate
+          attributeName="stop-color"
+          values="#bc8cff;#58a6ff;#3fb950;#bc8cff"
+          dur="8s"
+          repeatCount="indefinite"
+        />
+      </stop>
+    </linearGradient>
+
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <clipPath id="typingClip">
+      <rect x="45" y="58" width="0" height="135">
+        <animate
+          attributeName="width"
+          values="0;0;910;910;0"
+          keyTimes="0;0.08;0.55;0.92;1"
+          dur="9s"
+          repeatCount="indefinite"
+        />
+      </rect>
+    </clipPath>
+  </defs>
+
+  <rect
+    x="5"
+    y="5"
+    width="990"
+    height="240"
+    rx="14"
+    fill="url(#terminalGradient)"
+    stroke="#30363d"
+    stroke-width="2"
+  />
+
+  <circle cx="30" cy="28" r="7" fill="#ff5f56" />
+  <circle cx="53" cy="28" r="7" fill="#ffbd2e" />
+  <circle cx="76" cy="28" r="7" fill="#27c93f" />
+
+  <text
+    x="500"
+    y="33"
+    text-anchor="middle"
+    font-family="'JetBrains Mono', 'Courier New', monospace"
+    font-size="14"
+    fill="#8b949e"
+  >
+    buraksal52@github: ~/profile
+  </text>
+
+  <line
+    x1="5"
+    y1="49"
+    x2="995"
+    y2="49"
+    stroke="#30363d"
+    stroke-width="2"
+  />
+
+  <text
+    x="45"
+    y="78"
+    font-family="'JetBrains Mono', 'Courier New', monospace"
+    font-size="16"
+    fill="#3fb950"
+  >
+    $ ./buraksal
+  </text>
+
+  <g clip-path="url(#typingClip)" filter="url(#glow)">
+    <text
+      x="45"
+      y="112"
+      font-family="'JetBrains Mono', 'Courier New', monospace"
+      font-size="38"
+      font-weight="700"
+      letter-spacing="2"
+      fill="url(#textGradient)"
+    >
+      BURAK SAL
+    </text>
+
+    <text
+      x="45"
+      y="151"
+      font-family="'JetBrains Mono', 'Courier New', monospace"
+      font-size="19"
+      fill="#c9d1d9"
+    >
+      Research → Engineering → Product
+    </text>
+
+    <text
+      x="45"
+      y="181"
+      font-family="'JetBrains Mono', 'Courier New', monospace"
+      font-size="16"
+      fill="#8b949e"
+    >
+      AI • Backend • Mobile • Blockchain
+    </text>
+  </g>
+
+  <text
+    x="45"
+    y="219"
+    font-family="'JetBrains Mono', 'Courier New', monospace"
+    font-size="16"
+    fill="#58a6ff"
+  >
+    profile initialized
+    <animate
+      attributeName="opacity"
+      values="0;0;1;1"
+      keyTimes="0;0.55;0.7;1"
+      dur="9s"
+      repeatCount="indefinite"
+    />
+  </text>
+
+  <rect
+    x="222"
+    y="205"
+    width="10"
+    height="18"
+    rx="1"
+    fill="#58a6ff"
+  >
+    <animate
+      attributeName="opacity"
+      values="1;0;1"
+      dur="1s"
+      repeatCount="indefinite"
+    />
+  </rect>
+</svg>
