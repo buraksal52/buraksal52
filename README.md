@@ -1,15 +1,10 @@
-<div align="center">
+<p align="center">
+  <img src="./assets/header.svg" width="100%" alt="Burak SAL Header"/>
+</p>
 
-```text
-██████╗ ██╗   ██╗██████╗  █████╗ ██╗  ██╗    ███████╗ █████╗ ██╗
-██╔══██╗██║   ██║██╔══██╗██╔══██╗██║ ██╔╝    ██╔════╝██╔══██╗██║
-██████╔╝██║   ██║██████╔╝███████║█████╔╝     ███████╗███████║██║
-██╔══██╗██║   ██║██╔══██╗██╔══██║██╔═██╗     ╚════██║██╔══██║██║
-  ██████╔╝╚██████╔╝██║  ██║██║  ██║██║  ██╗    ███████║██║  ██║███████╗
-╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝    ╚══════╝╚═╝  ╚═╝╚══════╝
-```
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Building+AI-powered+Products;Flutter+%7C+Go+%7C+Python;Research+%E2%86%92+Engineering+%E2%86%92+Product;Exploring+AI+Agents+and+Blockchain;Always+Building.+Always+Learning." />
+</p>
 
 ```text
 ┌──────────────────────────────────────────────────────────────────────────────┐
@@ -42,19 +37,41 @@
 └──────────────────────────────────────────────────────────────────────────────┘
 ```
 
-<p align="center">
+---
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=23&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+AI-powered+Products;Flutter+%7C+Go+%7C+Python;Research+%E2%86%92+Engineering+%E2%86%92+Product;Backend+Developer;Always+Curious." />
+# `about --verbose`
 
-</p>
+I enjoy building software where **research meets engineering**.
 
-## About
+My primary interest is designing AI-powered systems and transforming ideas from research papers into practical products.
 
-Building software where research meets engineering.
+Instead of building projects only to learn a technology, I prefer identifying real-world problems, understanding the research behind them, and engineering solutions that people can actually use.
 
-I enjoy transforming ideas from research papers into practical products by combining Artificial Intelligence, Backend Engineering and modern application development.
+```yaml
+Current Focus:
+  - AI-powered Applications
+  - Backend Engineering
+  - Mobile Development
+  - Product Engineering
 
-Currently focused on scalable backend systems, AI-powered applications and emerging technologies.
+Currently Exploring:
+  - AI Agents
+  - Blockchain
+  - Distributed Systems
+  - Quantum Computing
+  - Human–Computer Interaction
+
+Workflow:
+  Science
+      ↓
+  Engineering
+      ↓
+  Product
+```
+
+---
+
+# `tech-stack`
 
 <p align="center">
 
@@ -62,37 +79,49 @@ Currently focused on scalable backend systems, AI-powered applications and emerg
 
 </p>
 
-## Featured Projects
+---
 
-🩺 **ClinicAI**
-> AI-powered appointment automation platform.
+# `ls featured-projects`
 
-🌐 **Agent Tale**
-> Flutter + Go based modern platform.
+| Project | Description |
+|---------|-------------|
+| 🩺 **ClinicAI** | AI-powered appointment automation platform for clinics. |
+| 🌐 **Agent Tale** | Flutter + Go application built on blockchain infrastructure. |
+| 🎨 **LucidUI** | AI-assisted interface quality analysis and HCI research. |
+| ⛓️ **MIV Blockspace** | Blockchain spam detection & MEV analytics. |
+| ⚡ **Physim** | Interactive physics simulations for education. |
 
-🎨 **LucidUI**
-> AI-assisted UI quality analysis.
+---
 
-⛓️ **MIV Blockspace**
-> Blockchain spam analysis and MEV research.
+# `cat research_interests.md`
 
-⚡ **Physim**
-> Interactive physics simulations.
+```text
+Artificial Intelligence
+├── AI Agents
+├── Large Language Models
+└── Applied AI
 
-## Research Interests
+Software Engineering
+├── Backend Systems
+├── Product Engineering
+└── Distributed Systems
 
-- Artificial Intelligence
-- AI Agents
-- Backend Engineering
-- Human–Computer Interaction
-- Blockchain
-- Quantum Computing
+Emerging Technologies
+├── Blockchain
+└── Quantum Computing
+
+Human–Computer Interaction
+```
+
+---
+
+# `git stats`
 
 <p align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=buraksal52&show_icons=true&theme=transparent&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=buraksal52&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buraksal52&layout=compact&theme=transparent&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buraksal52&layout=compact&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8B949E"/>
 
 </p>
 
@@ -102,31 +131,46 @@ Currently focused on scalable backend systems, AI-powered applications and emerg
 
 </p>
 
-Contribution Snake
+---
+
+# `./contribution-snake`
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/buraksal52/buraksal52/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+
+</p>
+
+---
+
+# `connect`
 
 <p align="center">
 
 <a href="https://linkedin.com/in/brksal">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://medium.com/@brk52siz">
-<img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium"/>
+<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
 </a>
 
 <a href="https://x.com/burak_shal">
-<img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x"/>
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
 <a href="mailto:brk52siz@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
 
-────────────────────────────────────────────
+---
 
-Turning research into products. "Science, Engineering and Business"
+<p align="center">
 
-────────────────────────────────────────────
+> **Science → Engineering → Business**
 
+*"Turning research into products."*
+
+</p>
