@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Burak SAL</h1>
+<h1 align="center">Hey, it's Burak SAL</h1>
 
 <h3 align="center">
-Building AI-powered products, exploring emerging technologies, and turning research into real-world software.
+Im building AI-powered products, exploring emerging technologies, and turning research into real-world software
 </h3>
 
 <p align="center">
@@ -10,17 +10,17 @@ Building AI-powered products, exploring emerging technologies, and turning resea
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 🤖 Building AI-powered software and backend systems
-- ⚙️ Interested in Artificial Intelligence, Backend Engineering, Quantum Computing, Blockchain and HCI
-- 🧠 Passionate about transforming research ideas into practical products
-- 🌱 Currently learning more about AI Agents and Blockchain technologies
-- 💡 Always exploring new technologies and challenging ideas
+- Building AI-powered software and backend systems
+- Interested in Artificial Intelligence, Backend Engineering, Quantum Computing, Blockchain and HCI/Cognitive Science
+- Passionate about transforming research ideas into practical products
+- Currently learning more about AI Agents and Blockchain technologies
+- Always exploring new technologies and challenging ideas
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Languages
 
@@ -42,13 +42,13 @@ Building AI-powered products, exploring emerging technologies, and turning resea
 
 ---
 
-## 📌 Currently Building
+## Currently Building
 
-- 🏥 **ClinicAI** — AI-powered appointment automation
-- 🌐 **Agent Tale** — Flutter + Go platform
-- 🎨 **LucidUI** — UI quality analysis with AI
-- ⛓️ **MIV Blockspace** — Blockchain analytics & spam detection
-- ⚡ **Physim** — Interactive physics simulations
+-  **ClinicAI** — AI-powered appointment automation for clinics
+-  **Agent Tale** — Ai agent platform that built with Flutter + Go 
+-  **LucidUI** — UI quality analysis and feedback system with cognitive metrics
+-  **MIV Blockspace** — Spam MEV analyser and detecting spam open source
+-  **Physim** — Interactive physics platform
 
 ---
 
@@ -60,14 +60,14 @@ Building AI-powered products, exploring emerging technologies, and turning resea
 - Quantum Computing
 - Blockchain
 - AI Agents
-
+- Distributed Systems
 ---
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=BURAYA_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BURAYA_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=buraksal52&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buraksal52&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 <p align="center">
