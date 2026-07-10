@@ -13,11 +13,11 @@
 │                                                                              │
 │  $ tree ~/projects                                                           │
 │                                                                              │
-│  📁 ClinicAI                                                                 │
-│  📁 Agent-Tale                                                               │
-│  📁 LucidUI                                                                  │
-│  📁 MIV-Blockspace                                                           │
-│  📁 Physim                                                                   │
+│  - ClinicAI                                                                 │
+│  - Agent-Tale                                                               │
+│  - LucidUI                                                                  │
+│  - MIV-Blockspace                                                           │
+│  - Physim                                                                   │
 │                                                                              │
 │  $ cat profile.md                                                            │
 │                                                                              │
@@ -85,11 +85,11 @@ Workflow:
 
 | Project | Description |
 |---------|-------------|
-| 🩺 **ClinicAI** | AI-powered appointment automation platform for clinics. |
-| 🌐 **Agent Tale** | Flutter + Go application built on blockchain infrastructure. |
-| 🎨 **LucidUI** | AI-assisted interface quality analysis and HCI research. |
-| ⛓️ **MIV Blockspace** | Blockchain spam detection & MEV analytics. |
-| ⚡ **Physim** | Interactive physics simulations for education. |
+|  **ClinicAI** | AI-powered appointment automation platform for clinics. |
+|  **Agent Tale** | Flutter + Go application built on blockchain infrastructure. |
+|  **LucidUI** | AI-assisted interface quality analysis and HCI research. |
+|  **MIV Blockspace** | Blockchain spam detection & MEV analytics. |
+|  **Physim** | Interactive physics simulations for education. |
 
 ---
 
