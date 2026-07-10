@@ -6,9 +6,9 @@
   role="img"
   aria-labelledby="title desc"
 >
-  <title id="title">Burak SAL animated terminal header</title>
+  <title id="title">Burak SAL animated terminal header — dark</title>
   <desc id="desc">
-    An animated terminal-style header displaying the name Burak SAL.
+    An animated dark terminal-style header displaying the name Burak SAL.
   </desc>
 
   <defs>
