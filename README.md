@@ -23,8 +23,8 @@
 │                                                                              │
 │  $ tree ~/projects                                                           │
 │                                                                              │
-│  ├── ClinicAI                                                                │
-│  ├── Agent-Tale                                                              │
+│  ├── Remotion Studio                                                         │
+│  ├── ghoStellar                                                              │
 │  ├── LucidUI                                                                 │
 │  ├── MIV-Blockspace                                                          │
 │  └── Physim                                                                  │
@@ -39,6 +39,7 @@
 │                 Blockchain                                                   │
 │                 Quantum Computing                                            │
 │                 Human–Computer Interaction                                   │
+│                 6G Networking & Linux.                                       │
 │                                                                              │
 │  Mission     :: Turning research into products.                              │
 │                                                                              │
